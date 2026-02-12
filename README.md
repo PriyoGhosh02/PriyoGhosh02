@@ -122,23 +122,12 @@ Dr. Mujib-Ruby Model High School (2018)
 ---
 
 # 📊 GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=PriyoGhosh02&show_icons=true&theme=dark" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=PriyoGhosh02&theme=dark" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyoGhosh02&layout=compact&theme=dark" />
-
----
-
 # 🏆 GitHub Trophies & Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=PriyoGhosh02&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
-
----
+<img src="https://github-profile-trophy.vercel.app/?username=PriyoGhosh02&theme=dark" />
 
 # 👀 Profile Views
-
 <img src="https://visitcount.itsvg.in/api?id=PriyoGhosh02&icon=0&color=0" />
 
 ---
