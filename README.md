@@ -12,23 +12,24 @@ Skilled in building responsive interfaces, backend integration, and working with
 
 <p align="left">
 
-<a href="https://priyoghosh02.github.io/protfolio_JS/" target="_blank">
+<a href="https://priyoghosh02.github.io/protfolio_JS/">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/priyo02" target="_blank">
+<a href="https://linkedin.com/in/priyo02">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/PriyoGhosh02" target="_blank">
+<a href="https://github.com/PriyoGhosh02">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:priyoghosh02@gmail.com" target="_blank">
+<a href="mailto:priyoghosh02@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
+
 
 ---
 
