@@ -138,17 +138,6 @@ Kaliganj Govt. College (2020)
 **SSC (Science)**  
 Dr. Mujib-Ruby Model High School (2018)
 
----
-
-# 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=PriyoGhosh02&show_icons=true&theme=dark" />
-
-# 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=PriyoGhosh02&theme=dark" />
-
-# 👀 Profile Views
-<img src="https://visitcount.itsvg.in/api?id=PriyoGhosh02&icon=0&color=0" />
-
 
 ---
 
