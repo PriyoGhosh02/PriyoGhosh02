@@ -106,6 +106,25 @@ Dec 2025 – Present | Dhaka
 - Developed responsive web pages and CMS interfaces  
 - Worked with frontend frameworks and UI systems  
 
+
+---
+
+# 🧠 Problem Solving Experience
+
+### Competitive Programming – Codeforces  
+🔗 Codeforces Profile:  
+https://codeforces.com/profile/Priyo_ghosh01  
+
+🔗 Problem Solutions Repository:  
+https://github.com/PriyoGhosh02/codeforces-problem  
+
+- Regularly solve algorithm and data structure problems on Codeforces  
+- Practising logical thinking, problem-solving, and efficient coding techniques  
+- Continuously improving skills by solving new problems and participating in contests  
+- Maintaining a GitHub repository to organise and document solved problems  
+- Actively working to solve more problems and strengthen competitive programming skills  
+
+
 ---
 
 # 🎓 Education
