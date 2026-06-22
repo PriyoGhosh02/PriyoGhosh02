@@ -12,7 +12,7 @@ Skilled in building responsive interfaces, backend integration, and working with
 
 <p align="left">
 
-<a href="https://priyoghosh02.github.io/protfolio_JS/">
+<a href="https://priyoghosh.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
