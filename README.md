@@ -73,7 +73,7 @@ Skilled in building responsive interfaces, backend integration, and working with
 
 ### Portfolio Website
 🔗 Live Demo:  
-https://priyoghosh02.github.io/protfolio_JS/
+https://priyoghosh.vercel.app/
 
 - Designed and developed using HTML, CSS, and JavaScript  
 - Fully responsive and interactive UI  
