@@ -16,7 +16,7 @@ Skilled in building responsive interfaces, backend integration, and working with
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/priyo02">
+<a href="https://www.linkedin.com/in/priyoghosh02/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
